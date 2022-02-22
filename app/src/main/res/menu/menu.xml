@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/friends"
+        android:title="Friends"
+        android:icon="@drawable/ic_friends" />
+
+    <item
+        android:id="@+id/money"
+        android:title="Money"
+        android:icon="@drawable/ic_drop_money" />
+
+    <item
+        android:id="@+id/umbrella"
+        android:title="Umbrella"
+        android:icon="@drawable/ic_umbrella" />
+
+    <item
+        android:id="@+id/more"
+        android:title="More"
+        android:icon="@drawable/ic_more" />
+</menu>
